@@ -73,12 +73,12 @@ After completing program , we have to end program by using endmodule command whi
 now we can save and run the porgram.
 
 ### PROGRAM 
-/*
+
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: S.PRADEEP
 
 RegisterNumber: 212222100034  
-*/
+
 
 ### MULTIPLEXER 
 ```
