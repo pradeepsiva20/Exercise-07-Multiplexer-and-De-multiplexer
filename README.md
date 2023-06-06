@@ -143,3 +143,7 @@ endmodule
 ![image](https://github.com/Anandanaruvi/Exercise-07-Multiplexer-and-De-multiplexer/assets/120443233/41af00fe-a7ca-4103-bf9c-eb8b3a3b8989)
 
 ### RESULTS 
+
+
+Therefore multiplexer and demultiplexer is executed successfully. 
+
